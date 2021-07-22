@@ -7,7 +7,10 @@ A pretty and customizable web app to deploy  DL model with ease
 
 - Clone this repo 
 - Install requirements
-- Run the script python app.py
+- Download the dataset from https://www.kaggle.com/alxmamaev/flowers-recognition and unzip it in the models folder.
+- From the models folder , Run the notebook _flower_classifier.ipynb _
+- This generates the file flower_clf.h5 
+- From the top-most parent directory run the script python app.py
 - Go to http://localhost:5000
 - Done! :tada:
 
